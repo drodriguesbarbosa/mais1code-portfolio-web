@@ -1,4 +1,118 @@
 .teste {
-    background-color: red !important;
-    margin: 10px
+    background-color: red;
+    margin: 100px
+}
+
+
+.link_inicio {
+    list-style: none;
+    text-align: center;
+}
+
+.logo {
+    font-family: 'Highbary Sunfest', sans-serif;
+    border-bottom: 1px solid black;
+    padding: 0px 0px 1px 11px;
+    width: 100%;
+    font-size: 20px;
+    display: inline-flex;
+}
+
+
+.file-code-modify {
+    text-align: left;
+    display: contents;
+}
+.logo_text {
+    text-align: left;
+    color: black;
+    font-size: 100px;
+    margin-bottom: 0%;
+}
+
+.itens-nav {
+    width: 100%;
+    float: right;
+    text-align: right;
+    align-items: flex-end;
+    justify-content: left;
+    margin-right: 25px;
+    margin-top: 0px;
+    display: inline-flex;
+
+}
+
+.link_itens {
+    width: 100%;
+    float: center;
+    text-align: center;
+    align-items: flex-end;
+    justify-content: center;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    list-style: none;
+    display: inline-flex;
+}
+
+
+.link_itens li {
+    display: inline;
+    }
+
+.pesquisa {
+    float: center;
+    width: 72%;
+}
+
+.button {
+    width: 10%;
+    float: left;
+
+}
+
+.banner {
+    text-align: center;
+    float: none;
+}
+
+.col-sm img {
+    width: 500px;
+    height: 400px;
+
+}
+
+.links_esquerda {
+    list-style: none;
+
+}
+
+.icone_modify {
+    width: 500px;
+    height: 500px;
+    size: 500px;
+    color: red;
+    text-align: center;
+
+}
+
+.github_modify {
+    color: black;
+    width: 29%;
+
+}
+
+.linkedin_modify {
+    color: blue;
+    width: 29%;
+}
+
+.copyright {
+    text-align: center;
+}
+
+a.textologo b h5 {
+    list-style: none;
+    color: black;
+    font-family: 'TTT', sans-serif;
 }
