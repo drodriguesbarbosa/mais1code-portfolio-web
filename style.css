@@ -88,12 +88,18 @@
 }
 
 .icone_modify {
-    width: 500px;
-    height: 500px;
+    width: 100px;
+    height: 100px;
     size: 500px;
     color: red;
     text-align: center;
 
+}
+
+.links_direita {
+    list-style: none;
+    text-align: right;
+    width: 60%;
 }
 
 .github_modify {
